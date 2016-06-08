@@ -18,7 +18,7 @@
 
 4．「コマンド行パターン」の最後に以下を追加する．コピペすると文字化けする恐れがある
 
-  ```pkg-config --libs gtk+-2.0``` -rdynamic
+  \`pkg-config --libs gtk+-2.0\` -rdynamic
 
 5．「Cross GCC Linker」の中の「ライブラリー」を選択する
 
